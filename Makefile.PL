@@ -27,7 +27,7 @@ FOUND_IT : {
 
   warn("WCSTOOLS environment variable not found, assuming /usr/local/wcstools\n");
   $inc = "-I/usr/local/wcstools/libwcs";
-  $libs = "-L/usr/local/wcstools/libwcs -lwcs -lm";
+  $libs = "-L/usr/local/wcstools/libwcs -lwcstools -lm";
 }
 
 # See lib/ExtUtils/MakeMaker.pm for details of how to influence

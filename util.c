@@ -4,7 +4,6 @@
 
 #include <stdlib.h>
 #include <stdio.h>
-#include "wcs.h"
 #include "util.h"
 
 static int perly_unpacking = 1; /* state variable */
