@@ -2,9 +2,9 @@
 #include "perl.h"
 #include "XSUB.h"
 
-#include "wcstools/fitsfile.h"
-#include "wcstools/wcs.h"
-#include "wcstools/wcscat.h"
+#include "fitsfile.h"
+#include "wcs.h"
+#include "wcscat.h"
 #include "util.h"
 
 typedef struct WorldCoor WCS;

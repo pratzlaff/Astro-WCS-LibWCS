@@ -1,7 +1,7 @@
 #ifndef _H_UTIL_LIBWCS_PERL
 #define _H_UTIL_LIBWCS_PERL
 
-#include "wcstools/wcs.h"
+#include "wcs.h"
 
 #define TBYTE        11
 #define TLOGICAL     14
