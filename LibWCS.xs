@@ -3076,7 +3076,7 @@ jd2mst2(dj)
 	double dj
 
 double
-mjd2mst(dj)
+jd2mst(dj)
 	double dj
 
 void

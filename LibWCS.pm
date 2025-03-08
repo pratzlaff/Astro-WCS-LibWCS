@@ -374,7 +374,7 @@ my @_functions = qw(
 		    dt2mst
 		    ts2mst
 		    jd2mst2
-		    mjd2mst
+		    jd2mst
 		    compnut
 		    isdate
 
